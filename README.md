@@ -1,6 +1,8 @@
-# APORTFOLIO
+# A PORTFOLIO
 
 A sample portfolio website
+![image](https://user-images.githubusercontent.com/53272457/204068844-be88d435-cd06-4614-a376-23efb65d0e14.png)
+
 
 ## Tech Stack
 
